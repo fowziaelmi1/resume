@@ -1,0 +1,13 @@
+#container {
+  font-family: "Courier New", Courier, monospace;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  color: rosybrown;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.image-background {
+  height: 50vh;
+  align-self: center;
+}
